@@ -5,7 +5,7 @@
   "description": "Nguồn cài chính thức của Zenflow cho LiveContainer, AltStore và SideStore. File IPA chưa ký, trình cài tự ký bằng Apple ID của bạn.",
   "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/Logo/logo.png",
   "website": "https://usezenflow.com",
-  "tintColor": "FFA552",
+  "tintColor": "FF8247",
   "featuredApps": [
     "com.zenflow.app"
   ],
@@ -14,10 +14,10 @@
       "name": "Zenflow",
       "bundleIdentifier": "com.zenflow.app",
       "developerName": "Zenflow",
-      "subtitle": "Lịch học và việc cần làm tự xếp giờ",
-      "localizedDescription": "Zenflow xếp việc cần làm vào lịch học của bạn.\n\nĐăng nhập bằng email để:\n• Xem lịch tuần và lịch tháng\n• Kết nối LMS và cổng sinh viên để nhập thời khoá biểu và hạn nộp\n• Thêm việc kèm hạn nộp và để Zenflow tự chọn giờ\n• Chia việc lớn thành nhiều buổi\n• Nhận nhắc giờ học và hạn nộp",
+      "subtitle": "Nói một câu, lịch tự xếp",
+      "localizedDescription": "Xổ hết mớ việc trong đầu, gõ hay nói đều được. Zenflow tách thành từng việc, né giờ học, giờ thi rồi chốt vào giờ đẹp trước deadline.\n\n• Gõ, dán hoặc bật mic nói một hơi, Zenflow tự tách việc\n• Mỗi việc có sẵn khung giờ trống trước hạn, xem lại rồi bấm Chốt\n• Kết nối cổng sinh viên và LMS DLU: lịch học, lịch thi, bài tập tự nhảy vào\n• Lịch tháng và danh sách việc trong ngày\n• Nhắc trước giờ thi, giờ nộp và đồng bộ qua app Lịch của máy\n• Ghi chú có định dạng, checklist và link\n• Giao diện sáng và tối\n\nDành cho sinh viên DLU, đăng nhập bằng mail @dlu.edu.vn.",
       "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/Logo/logo.png",
-      "tintColor": "FFA552",
+      "tintColor": "FF8247",
       "category": "productivity",
       "screenshots": {
         "iphone": [
