@@ -1,49 +1,49 @@
 {
-  "name": "Zenflow",
+  "name": "Zen",
   "identifier": "com.zenflow.source",
-  "subtitle": "Nguồn cài Zenflow cho iOS",
-  "description": "Nguồn cài chính thức của Zenflow cho LiveContainer, AltStore và SideStore. File IPA chưa ký, trình cài tự ký bằng Apple ID của bạn.",
-  "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/Logo/logo.png",
+  "subtitle": "Nguồn cài Zen cho iOS",
+  "description": "Nguồn cài chính thức của Zen cho LiveContainer, AltStore và SideStore. File IPA chưa ký, trình cài tự ký bằng Apple ID của bạn.",
+  "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/Logo/logo.png",
   "website": "https://usezenflow.com",
-  "tintColor": "FF8247",
+  "tintColor": "D9442B",
   "featuredApps": [
     "com.zenflow.app"
   ],
   "apps": [
     {
-      "name": "Zenflow",
+      "name": "Zen",
       "bundleIdentifier": "com.zenflow.app",
-      "developerName": "Zenflow",
-      "subtitle": "Nói một câu, lịch tự xếp",
-      "localizedDescription": "Xổ hết mớ việc trong đầu, gõ hay nói đều được. Zenflow tách thành từng việc, né giờ học, giờ thi rồi chốt vào giờ đẹp trước deadline.\n\n• Gõ, dán hoặc bật mic nói một hơi, Zenflow tự tách việc\n• Mỗi việc có sẵn khung giờ trống trước hạn, xem lại rồi bấm Chốt\n• Kết nối cổng sinh viên và LMS DLU: lịch học, lịch thi, bài tập tự nhảy vào\n• Lịch tháng và danh sách việc trong ngày\n• Nhắc trước giờ thi, giờ nộp và đồng bộ qua app Lịch của máy\n• Ghi chú có định dạng, checklist và link\n• Giao diện sáng và tối\n\nDành cho sinh viên DLU, đăng nhập bằng mail @dlu.edu.vn.",
-      "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/Logo/logo.png",
-      "tintColor": "FF8247",
+      "developerName": "Zen",
+      "subtitle": "Nói một câu, Zen lo phần còn lại",
+      "localizedDescription": "Sổ tay sinh viên chạy ngay trên máy. Nói hoặc gõ, Zen tự xếp vào giờ trống trước hạn.\n\n• Giữ để nói tiếng Việt, hoặc gõ, chụp ảnh, chọn PDF, Zen tách thành từng việc\n• Tự xếp việc vào giờ trống trước deadline, có hoàn tác\n• Xem theo ngày, tuần, tháng và thẻ việc kế tiếp\n• Nhịp học: học giờ nào bạn làm tốt nhất, ngay trên máy\n• Tìm kiếm bằng câu nói thường\n• Đồng bộ cổng sinh viên DLU và LMS ngay trên máy, mật khẩu không rời khỏi máy\n• Điểm số, widget màn hình chính\n• Giao diện sáng và tối\n\nDành cho sinh viên DLU, không cần tài khoản.",
+      "iconURL": "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/Logo/logo.png",
+      "tintColor": "D9442B",
       "category": "productivity",
       "screenshots": {
         "iphone": [
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-1.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-2.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-3.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-4.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-5.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-6.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-7.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-8.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-9.png",
-          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-10.png"
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-1.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-2.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-3.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-4.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-5.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-6.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-7.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-8.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-9.png",
+          "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-10.png"
         ]
       },
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-1.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-2.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-3.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-4.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-5.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-6.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-7.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-8.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-9.png",
-        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zenflow/ScreenShots/screenshot-10.png"
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-1.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-2.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-3.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-4.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-5.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-6.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-7.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-8.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-9.png",
+        "https://raw.githubusercontent.com/usezenflow/releases/main/assets/Zen/ScreenShots/screenshot-10.png"
       ],
       "versions": [
         {
